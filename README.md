@@ -4,24 +4,17 @@
 
 # 👋 Oi, eu sou o Guilherme!
 
-💻 Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Zona Sul e apaixonado por tecnologia e programação.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** e apaixonado por tecnologia e programação.
 
-🚀 Comecei a estudar programação em 2024 e venho desenvolvendo meus conhecimentos em **HTML, CSS, JavaScript e React.js**, além de estar aprendendo **PHP, C e C++**.
+Minha jornada na área de tecnologia começou em **2022**, quando tive meu primeiro contato com programação através do curso **Brasil Mobile School**. Foi onde comecei a descobrir o mundo do desenvolvimento e percebi que era uma área que realmente despertava meu interesse.
 
-📚 Tenho interesse em **desenvolvimento web, desenvolvimento de software e banco de dados**. Gosto de colocar meus conhecimentos em prática através de projetos e desafios que me ajudam a evoluir.
+Em **2024**, dei mais um passo importante na minha trajetória ao participar do **Instituto PROA**, onde continuei meus estudos e aprofundei meus conhecimentos em desenvolvimento web.
 
-🎯 Meu objetivo é continuar aprendendo, ganhar experiência profissional e me tornar um desenvolvedor cada vez melhor.
+Desde então, venho buscando evoluir constantemente, colocando em prática o que aprendo através de projetos, estudos e desafios.
 
-### 🛠️ Tecnologias
+Atualmente, sigo minha formação na **FATEC Zona Sul**, cursando **Desenvolvimento de Software Multiplataforma**, sempre buscando aprender coisas novas e me preparar para crescer profissionalmente na área de tecnologia.
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* SQL / MySQL
-* PHP
-* C++
+🚀 **Essa é só a primeira parte da minha jornada.**
 
 ✨ Sempre aprendendo, criando e evoluindo.
 ".
